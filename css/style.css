@@ -3,7 +3,7 @@ body {
   height: 100%;
 }
 body {
-  background: url(img/bg.jpg);
+  background-color: #eccbb54b;
   background-size: cover;
 }
 .form-login {
@@ -17,11 +17,11 @@ body {
   background: url(img/bg.jpg);
 }
 .btn-primary {
-  background: #f1c40f;
+  background: #586d61;
   border: 0;
 }
 .btn-primary:hover {
-  background: #d35400;
+  background: #51b83d;
 }
 
 img {
@@ -29,15 +29,15 @@ img {
   height: auto;
 }
 #mainMenu .nav-link {
-  color: #17a2b8;
+  color: #397e55;
 }
 #mainMenu .nav-link:hover {
-  background: #17a2b8;
+  background: #397e55;
   border-radius: 5px;
   color: #262626;
 }
 #mainMenu .nav-link.active {
-  background: #17a2b8;
+  background: #397e55;
   border-radius: 5px;
   color: #262626;
 }
@@ -60,7 +60,7 @@ img {
 }
 
 #footer ul a:hover {
-  color: #17a2b8;
+  color: #397e55;
 }
 
 @media only screen and (min-width: 200px) and (max-width: 767px) {
