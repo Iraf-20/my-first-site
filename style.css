@@ -11,13 +11,13 @@ img {
   height: auto;
 }
 .bg-light{
-  background-color: #b7ddda !important;
+  background-color: #b0c09ac8 !important;
 }
 h3 {
   color: #c70505;
 }
 .form-login {
-  background: #979793b8 !important;
+  background: #b0c09ac8 !important;
   border-radius: 10px;
   width: 100%;
   max-width: 450px;
@@ -27,26 +27,26 @@ h3 {
   background: url(img/bg.jpg);
 }
 .btn-primary {
-  background: #b7ddda !important;
+  background: #b0c09ac8 !important;
   border: 0;
 }
 .btn-primary:hover {
-  background: hsl(65, 37%, 64%) !important;
+  background: #9fc56a !important;
 }
 
 .btn-info {
-  background: #b7ddda !important;
+  background: #b0c09ac8 !important;
   border: 0;
 }
 .btn-info:hover {
-  background: hsl(65, 37%, 64%) !important;
+  background: #9fc56a !important;
 }
 
 #mainMenu .nav-link {
   color: #c70505 !important;
 }
 #mainMenu .nav-link:hover {
-  background: hsl(65, 37%, 64%) !important;
+  background: #9fc56a !important;
   border-radius: 5px;
   color: #c70505 !important;
 }
