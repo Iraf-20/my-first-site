@@ -3,13 +3,15 @@ body {
   height: 100%;
 }
 body {
-  background-color: #eccbb54b;
+  background-color: #f7e2bd4b;
   background-size: cover;
 }
 .bg-light{
-  background-color: rgb(123, 155, 89) !important;
+  background-color: #cfd498 !important;
 }
-
+h2 {
+  color: #c42f0e;
+}
 .form-login {
   background: #afb44d;
   border-radius: 10px;
@@ -21,19 +23,19 @@ body {
   background: url(img/bg.jpg);
 }
 .btn-primary {
-  background: rgb(123, 155, 89) !important;
+  background: #cbd378 !important;
   border: 0;
 }
 .btn-primary:hover {
-  background: #62795d !important;
+  background: hsl(65, 37%, 64%) !important;
 }
 
 .btn-info {
-  background: rgb(123, 155, 89) !important;
+  background: #cfd498 !important;
   border: 0;
 }
 .btn-info:hover {
-  background: #62795d !important;
+  background: hsl(65, 37%, 64%) !important;
 }
 
 img {
@@ -41,17 +43,17 @@ img {
   height: auto;
 }
 #mainMenu .nav-link {
-  color: #000000 !important;
+  color: #c42f0e !important;
 }
 #mainMenu .nav-link:hover {
-  background: hsl(88, 61%, 64%) !important
+  background: hsl(65, 37%, 64%) !important;
   border-radius: 5px;
-  color: #262626;
+  color: #c42f0e !important;
 }
 #mainMenu .nav-link.active {
   background: #397e55 !important;
   border-radius: 5px;
-  color: #262626;
+  color: #c42f0e;
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -67,7 +69,7 @@ img {
 }
 
 #footer ul a {
-  color: #262626;
+  color: #c42f0e !important;
   text-decoration: none;
 }
 
