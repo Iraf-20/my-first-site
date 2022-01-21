@@ -6,14 +6,18 @@ body {
   background-color: #f7e2bd4b;
   background-size: cover;
 }
-.bg-light{
-  background-color: #cfd498 !important;
+img {
+  max-width: 100%;
+  height: auto;
 }
-h2 {
-  color: #c42f0e;
+.bg-light{
+  background-color: #b7ddda !important;
+}
+h3 {
+  color: #c70505;
 }
 .form-login {
-  background: #afb44d;
+  background: #979793b8 !important;
   border-radius: 10px;
   width: 100%;
   max-width: 450px;
@@ -23,7 +27,7 @@ h2 {
   background: url(img/bg.jpg);
 }
 .btn-primary {
-  background: #cbd378 !important;
+  background: #b7ddda !important;
   border: 0;
 }
 .btn-primary:hover {
@@ -31,29 +35,25 @@ h2 {
 }
 
 .btn-info {
-  background: #cfd498 !important;
+  background: #b7ddda !important;
   border: 0;
 }
 .btn-info:hover {
   background: hsl(65, 37%, 64%) !important;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
 #mainMenu .nav-link {
-  color: #c42f0e !important;
+  color: #c70505 !important;
 }
 #mainMenu .nav-link:hover {
   background: hsl(65, 37%, 64%) !important;
   border-radius: 5px;
-  color: #c42f0e !important;
+  color: #c70505 !important;
 }
 #mainMenu .nav-link.active {
   background: #397e55 !important;
   border-radius: 5px;
-  color: #c42f0e;
+  color: #c70505;
 }
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -69,7 +69,7 @@ img {
 }
 
 #footer ul a {
-  color: #c42f0e !important;
+  color: #000 !important;
   text-decoration: none;
 }
 
