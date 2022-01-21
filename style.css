@@ -48,7 +48,6 @@ h3 {
 #mainMenu .nav-link:hover {
   background: #9fc56a !important;
   border-radius: 5px;
-  color: #c70505 !important;
 }
 #mainMenu .nav-link.active {
   background: #397e55 !important;
